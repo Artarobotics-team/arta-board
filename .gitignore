@@ -1,0 +1,15 @@
+# KiCad
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.tmp
+*_cache
+fp-info-cache
+
+# Simulation
+simulation_results/
+
+# OS / editor
+.DS_Store
+*~
