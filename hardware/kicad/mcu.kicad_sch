@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8d57e3cc-19e1-4761-ba88-99b5b69e1efc")
+	(paper "A4")
+	(text "ESP32-S3 (WROOM-1 MODULE)" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "Empty - GPIO pin map not yet defined (checklist section 4)" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "3"))
+	)
+	(embedded_fonts no)
+)

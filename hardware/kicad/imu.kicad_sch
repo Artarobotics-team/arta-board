@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "deae982c-8144-42b9-a28b-3aea4a390477")
+	(paper "A4")
+	(text "BMI270 IMU + POWER ISOLATION" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "Empty" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "4"))
+	)
+	(embedded_fonts no)
+)

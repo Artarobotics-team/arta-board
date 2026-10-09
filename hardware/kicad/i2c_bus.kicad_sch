@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "577539a0-08e1-4387-9ae3-24c1b404da46")
+	(paper "A4")
+	(text "TCA9548A + 6 external I2C ports + SPI connector" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "Empty" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "7"))
+	)
+	(embedded_fonts no)
+)

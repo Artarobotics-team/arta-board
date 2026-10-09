@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7a6e2e5c-f634-4979-b09e-2bdfb47330d5")
+	(paper "A4")
+	(text "BUZZER + RGB LED" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "Empty - start button SW1 lives on power_input sheet (LTC2955 PB)" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "8"))
+	)
+	(embedded_fonts no)
+)

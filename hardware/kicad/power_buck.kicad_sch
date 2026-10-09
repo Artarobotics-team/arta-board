@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f422ec30-c205-48de-8661-ad10c91f4edd")
+	(paper "A4")
+	(text "BLOCK 2: BUCK 5V AND 3.3V" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "DO NOT START until checklist section 0 items 1-2 (TPS56528 / AP63203) are confirmed" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "2"))
+	)
+	(embedded_fonts no)
+)

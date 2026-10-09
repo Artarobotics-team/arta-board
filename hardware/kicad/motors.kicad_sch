@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4848e1f0-d2e6-4b28-bb19-5fb8be4bdf3f")
+	(paper "A4")
+	(text "6X TB67H450 + 6X LPF2" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "DO NOT START until checklist section 0 item 3 (ID1/ID2 handling) is confirmed" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "5"))
+	)
+	(embedded_fonts no)
+)

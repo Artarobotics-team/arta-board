@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a3562c2e-402a-49f3-bfea-b7b1147070a1")
+	(paper "A4")
+	(text "4X SERVOS, DIRECT LEDC FROM ESP32-S3" (at 15 20 0) (effects (font (size 2.54 2.54) (bold))))
+	(text "Empty - PCA9685 NOT used per checklist section 0 item 5" (at 15 27 0) (effects (font (size 1.5 1.5))))
+	(lib_symbols)
+	(sheet_instances
+		(path "/" (page "6"))
+	)
+	(embedded_fonts no)
+)
